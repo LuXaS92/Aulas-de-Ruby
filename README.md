@@ -1,2 +1,2 @@
-# Aulas-de-Ruby
+# aprendendo-Ruby
 aulas de ruby
