@@ -5,4 +5,3 @@ def numeros_impares
 end
 
 numeros_impares
-
