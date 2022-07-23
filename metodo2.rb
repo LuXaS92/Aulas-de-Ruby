@@ -8,6 +8,6 @@ def media(elementos)
     elementos.sum / elementos.size
 end
 
-#numeros_impares(80, 90)
+numeros_impares(80, 90)
 puts media([9, 1, 2])
 puts media([10, 20])
