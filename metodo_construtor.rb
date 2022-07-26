@@ -11,3 +11,4 @@ end
 
 pessoa = Pessoa.new('Joana', 45)
 pessoa.exibir_informacoes
+ 
